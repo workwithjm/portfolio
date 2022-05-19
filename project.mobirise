@@ -41,7 +41,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/logo.png",
-    "mbrsiteDomain": "2muhoodp9j",
+    "mbrsiteDomain": "9bbve6bf59",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -58,7 +58,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Work with Jonathan | Social Media Creatives",
         "meta_descr": "Simple Social Media Graphics that catches attention? Let's work on it.",
         "header_custom": "",
         "footer_custom": "",
